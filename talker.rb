@@ -11,8 +11,8 @@ channels.delete "financeiro"
 
 channels.each do |channel, people|
   puts "----#{channel.upcase}----"
-  people.each do |people, qtd|
-    puts "#{people} - #{qtd} mensagens"
+  people.each do |person, qtd|
+    puts "#{person} - #{qtd} mensagens"
   end
   puts "\n"
 end
