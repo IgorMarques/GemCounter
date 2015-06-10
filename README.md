@@ -1,10 +1,6 @@
 # SlackAndGemsCounter
 Random project that, given an specific json with the blame of the gemfile of a group of projects, counts each time each developer added a gem to each project. Can also count some slack stuff (mentions per user, @channels per user and messages sent by user, all by channel).
 
-## Running
-
-> ruby main.rb
-
 ##Outputs
 
 ###Gems
