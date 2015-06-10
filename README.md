@@ -5,7 +5,9 @@ Random project that, given an specific json with the blame of the gemfile of a g
 
 > ruby main.rb
 
-##Output example
+##Outputs
+
+###Gems
 
 ```
 -----Igor Marques da Silva-----
@@ -221,4 +223,591 @@ sprockets-rails: 1 - Sprockets Rails integration
 font-awesome-sass: 1 - Font-Awesome SASS gem for use in Ruby projects
 
 TOTAL: 3
+```
+
+###Mentions
+
+```
+----BANCO-DE-VAGAS----
+ - 1258 mentions para esta pessoa
+lucasbibiano - 33 mentions para esta pessoa
+marcosjr182 - 7 mentions para esta pessoa
+bernardo - 4 mentions para esta pessoa
+karydja - 1 mentions para esta pessoa
+igor_marques - 1 mentions para esta pessoa
+
+----GEPE----
+ - 3216 mentions para esta pessoa
+andrezap - 14 mentions para esta pessoa
+igor_marques - 40 mentions para esta pessoa
+lucasbibiano - 50 mentions para esta pessoa
+ikaro_souza - 31 mentions para esta pessoa
+higor - 63 mentions para esta pessoa
+victor-oliveira - 42 mentions para esta pessoa
+bernardo - 3 mentions para esta pessoa
+seuraul - 1 mentions para esta pessoa
+marcosjr182 - 1 mentions para esta pessoa
+
+----APURN----
+ - 949 mentions para esta pessoa
+lucasbibiano - 33 mentions para esta pessoa
+igor_marques - 5 mentions para esta pessoa
+marcosjr182 - 11 mentions para esta pessoa
+
+----LU-LANCHES----
+ - 7690 mentions para esta pessoa
+karydja - 98 mentions para esta pessoa
+hackel - 70 mentions para esta pessoa
+igor_marques - 65 mentions para esta pessoa
+seuraul - 42 mentions para esta pessoa
+higor - 16 mentions para esta pessoa
+iagomds - 103 mentions para esta pessoa
+lucasbibiano - 49 mentions para esta pessoa
+bernardo - 3 mentions para esta pessoa
+
+----PULL_REQUESTS----
+ - 182 mentions para esta pessoa
+igor_marques - 6 mentions para esta pessoa
+rubenbdpaz - 2 mentions para esta pessoa
+iagomds - 3 mentions para esta pessoa
+lucasbibiano - 6 mentions para esta pessoa
+waldyr - 5 mentions para esta pessoa
+karydja - 6 mentions para esta pessoa
+seuraul - 1 mentions para esta pessoa
+
+----DUVIDAS----
+ - 679 mentions para esta pessoa
+karydja - 6 mentions para esta pessoa
+iagomds - 12 mentions para esta pessoa
+waldyr - 9 mentions para esta pessoa
+igor_marques - 2 mentions para esta pessoa
+luizrogeriocn - 4 mentions para esta pessoa
+lucasbibiano - 2 mentions para esta pessoa
+marcosjr182 - 3 mentions para esta pessoa
+bernardo - 5 mentions para esta pessoa
+
+----ELEJA-SE----
+lucasbibiano - 70 mentions para esta pessoa
+ - 4495 mentions para esta pessoa
+waldyr - 49 mentions para esta pessoa
+iagomds - 16 mentions para esta pessoa
+luizrogeriocn - 42 mentions para esta pessoa
+igor_marques - 30 mentions para esta pessoa
+karydja - 2 mentions para esta pessoa
+seuraul - 1 mentions para esta pessoa
+
+----CONCRETO----
+ - 183 mentions para esta pessoa
+bernardo - 1 mentions para esta pessoa
+lucasbibiano - 3 mentions para esta pessoa
+victor-oliveira - 1 mentions para esta pessoa
+
+----TRABALHANDO-EM----
+ - 385 mentions para esta pessoa
+igor_marques - 3 mentions para esta pessoa
+lucasbibiano - 2 mentions para esta pessoa
+higor - 2 mentions para esta pessoa
+seuraul - 1 mentions para esta pessoa
+victor-oliveira - 1 mentions para esta pessoa
+karydja - 2 mentions para esta pessoa
+rubenbdpaz - 1 mentions para esta pessoa
+marcosjr182 - 1 mentions para esta pessoa
+
+----IMOBILIARIA----
+ - 3348 mentions para esta pessoa
+lucasbibiano - 105 mentions para esta pessoa
+rubenbdpaz - 50 mentions para esta pessoa
+igor_marques - 20 mentions para esta pessoa
+waldyr - 5 mentions para esta pessoa
+diegopl - 18 mentions para esta pessoa
+karydja - 1 mentions para esta pessoa
+iagomds - 1 mentions para esta pessoa
+
+----ADMINISTRATIVO----
+ - 4514 mentions para esta pessoa
+lucasbibiano - 12 mentions para esta pessoa
+seuraul - 25 mentions para esta pessoa
+karydja - 103 mentions para esta pessoa
+higor - 30 mentions para esta pessoa
+igor_marques - 67 mentions para esta pessoa
+lucasalveslm - 1 mentions para esta pessoa
+victor-oliveira - 8 mentions para esta pessoa
+iagomds - 2 mentions para esta pessoa
+bernardo - 1 mentions para esta pessoa
+
+----COOPERATIVACULTURAL----
+marcosjr182 - 88 mentions para esta pessoa
+ - 551 mentions para esta pessoa
+bernardo - 13 mentions para esta pessoa
+igor_marques - 13 mentions para esta pessoa
+waldyr - 5 mentions para esta pessoa
+lucasbibiano - 5 mentions para esta pessoa
+
+----LINKS-INTERESSANTES----
+lucasbibiano - 6 mentions para esta pessoa
+ - 647 mentions para esta pessoa
+iagomds - 11 mentions para esta pessoa
+seuraul - 2 mentions para esta pessoa
+igor_marques - 6 mentions para esta pessoa
+karydja - 6 mentions para esta pessoa
+higor - 3 mentions para esta pessoa
+bernardo - 3 mentions para esta pessoa
+waldyr - 1 mentions para esta pessoa
+victor-oliveira - 1 mentions para esta pessoa
+
+----GENERAL----
+ - 12552 mentions para esta pessoa
+lucasalveslm - 3 mentions para esta pessoa
+seuraul - 62 mentions para esta pessoa
+waldyr - 5 mentions para esta pessoa
+lucasbibiano - 42 mentions para esta pessoa
+igor_marques - 143 mentions para esta pessoa
+victor-oliveira - 25 mentions para esta pessoa
+karydja - 114 mentions para esta pessoa
+bernardo - 23 mentions para esta pessoa
+hackel - 28 mentions para esta pessoa
+ikaro_souza - 14 mentions para esta pessoa
+iagomds - 44 mentions para esta pessoa
+andrezap - 4 mentions para esta pessoa
+higor - 101 mentions para esta pessoa
+diegopl - 3 mentions para esta pessoa
+luizrogeriocn - 16 mentions para esta pessoa
+rubenbdpaz - 5 mentions para esta pessoa
+marcosjr182 - 1 mentions para esta pessoa
+luanfonceca - 1 mentions para esta pessoa
+
+----RANDOM----
+ - 4833 mentions para esta pessoa
+hackel - 16 mentions para esta pessoa
+karydja - 47 mentions para esta pessoa
+lucasbibiano - 13 mentions para esta pessoa
+iagomds - 40 mentions para esta pessoa
+waldyr - 10 mentions para esta pessoa
+diegopl - 7 mentions para esta pessoa
+igor_marques - 55 mentions para esta pessoa
+higor - 25 mentions para esta pessoa
+luizrogeriocn - 6 mentions para esta pessoa
+bernardo - 4 mentions para esta pessoa
+seuraul - 12 mentions para esta pessoa
+ikaro_souza - 8 mentions para esta pessoa
+marcosjr182 - 1 mentions para esta pessoa
+rubenbdpaz - 2 mentions para esta pessoa
+victor-oliveira - 5 mentions para esta pessoa
+andrezap - 3 mentions para esta pessoa
+luanfonceca - 1 mentions para esta pessoa
+```
+
+ ###@channels sent
+
+ ```
+ ----BANCO-DE-VAGAS----
+ lucasbibiano - 3 @channels enviados
+  - 0 @channels enviados
+ igor_marques - 9 @channels enviados
+ marcosjr182 - 0 @channels enviados
+ karydja - 0 @channels enviados
+ bernardo - 1 @channels enviados
+ higor - 0 @channels enviados
+
+ ----GEPE----
+  - 0 @channels enviados
+ higor - 14 @channels enviados
+ igor_marques - 132 @channels enviados
+ marcosjr182 - 0 @channels enviados
+ lucasbibiano - 16 @channels enviados
+ victor-oliveira - 19 @channels enviados
+ andrezap - 3 @channels enviados
+ ikaro_souza - 11 @channels enviados
+ bernardo - 1 @channels enviados
+ karydja - 0 @channels enviados
+ seuraul - 0 @channels enviados
+
+ ----APURN----
+  - 0 @channels enviados
+ lucasbibiano - 6 @channels enviados
+ igor_marques - 7 @channels enviados
+ marcosjr182 - 2 @channels enviados
+ victor-oliveira - 0 @channels enviados
+
+ ----LU-LANCHES----
+ iagomds - 12 @channels enviados
+ igor_marques - 65 @channels enviados
+ hackel - 4 @channels enviados
+  - 0 @channels enviados
+ karydja - 44 @channels enviados
+ lucasbibiano - 3 @channels enviados
+ seuraul - 7 @channels enviados
+ higor - 3 @channels enviados
+ bernardo - 0 @channels enviados
+ victor-oliveira - 1 @channels enviados
+
+ ----PULL_REQUESTS----
+  - 0 @channels enviados
+ igor_marques - 31 @channels enviados
+ seuraul - 0 @channels enviados
+ iagomds - 0 @channels enviados
+ karydja - 2 @channels enviados
+ waldyr - 1 @channels enviados
+ lucasbibiano - 0 @channels enviados
+ andrezap - 0 @channels enviados
+ higor - 0 @channels enviados
+ bernardo - 0 @channels enviados
+ hackel - 0 @channels enviados
+ ikaro_souza - 0 @channels enviados
+ luanfonceca - 0 @channels enviados
+ marcosjr182 - 0 @channels enviados
+ rubenbdpaz - 0 @channels enviados
+ luizrogeriocn - 0 @channels enviados
+ victor-oliveira - 0 @channels enviados
+
+ ----DUVIDAS----
+ igor_marques - 13 @channels enviados
+ lucasbibiano - 0 @channels enviados
+ waldyr - 1 @channels enviados
+ iagomds - 0 @channels enviados
+ karydja - 11 @channels enviados
+ bernardo - 0 @channels enviados
+ luizrogeriocn - 1 @channels enviados
+ marcosjr182 - 2 @channels enviados
+  - 0 @channels enviados
+ seuraul - 0 @channels enviados
+ victor-oliveira - 0 @channels enviados
+ andrezap - 0 @channels enviados
+ hackel - 0 @channels enviados
+ ikaro_souza - 0 @channels enviados
+ higor - 0 @channels enviados
+ luanfonceca - 0 @channels enviados
+ rubenbdpaz - 0 @channels enviados
+
+ ----ELEJA-SE----
+ igor_marques - 54 @channels enviados
+ iagomds - 2 @channels enviados
+ waldyr - 0 @channels enviados
+ lucasbibiano - 8 @channels enviados
+  - 0 @channels enviados
+ luizrogeriocn - 0 @channels enviados
+ karydja - 0 @channels enviados
+
+ ----CONCRETO----
+  - 0 @channels enviados
+ igor_marques - 1 @channels enviados
+ lucasbibiano - 1 @channels enviados
+ bernardo - 0 @channels enviados
+ victor-oliveira - 0 @channels enviados
+
+ ----TRABALHANDO-EM----
+ lucasbibiano - 8 @channels enviados
+ karydja - 11 @channels enviados
+ victor-oliveira - 2 @channels enviados
+ igor_marques - 23 @channels enviados
+ diegopl - 0 @channels enviados
+ ikaro_souza - 2 @channels enviados
+ higor - 0 @channels enviados
+ iagomds - 0 @channels enviados
+ seuraul - 0 @channels enviados
+  - 0 @channels enviados
+ waldyr - 0 @channels enviados
+ andrezap - 0 @channels enviados
+ rubenbdpaz - 0 @channels enviados
+ hackel - 0 @channels enviados
+ lucasalveslm - 2 @channels enviados
+ luizrogeriocn - 0 @channels enviados
+ marcosjr182 - 0 @channels enviados
+
+ ----IMOBILIARIA----
+  - 0 @channels enviados
+ lucasbibiano - 8 @channels enviados
+ igor_marques - 27 @channels enviados
+ rubenbdpaz - 1 @channels enviados
+ waldyr - 0 @channels enviados
+ diegopl - 1 @channels enviados
+ higor - 0 @channels enviados
+ karydja - 0 @channels enviados
+
+ ----ADMINISTRATIVO----
+ igor_marques - 75 @channels enviados
+ higor - 1 @channels enviados
+ seuraul - 0 @channels enviados
+ lucasbibiano - 1 @channels enviados
+ karydja - 6 @channels enviados
+  - 0 @channels enviados
+ bernardo - 2 @channels enviados
+ victor-oliveira - 1 @channels enviados
+
+ ----COOPERATIVACULTURAL----
+  - 0 @channels enviados
+ igor_marques - 10 @channels enviados
+ marcosjr182 - 3 @channels enviados
+ lucasbibiano - 0 @channels enviados
+ bernardo - 1 @channels enviados
+ waldyr - 0 @channels enviados
+ hackel - 0 @channels enviados
+
+ ----LINKS-INTERESSANTES----
+ karydja - 3 @channels enviados
+ lucasbibiano - 13 @channels enviados
+ waldyr - 0 @channels enviados
+ iagomds - 8 @channels enviados
+ seuraul - 1 @channels enviados
+ igor_marques - 9 @channels enviados
+ andrezap - 0 @channels enviados
+ hackel - 0 @channels enviados
+ luanfonceca - 0 @channels enviados
+ higor - 0 @channels enviados
+ luizrogeriocn - 0 @channels enviados
+ bernardo - 0 @channels enviados
+ victor-oliveira - 0 @channels enviados
+  - 0 @channels enviados
+ ikaro_souza - 0 @channels enviados
+ diegopl - 0 @channels enviados
+ marcosjr182 - 0 @channels enviados
+
+ ----GENERAL----
+ seuraul - 15 @channels enviados
+ higor - 19 @channels enviados
+ lucasalveslm - 1 @channels enviados
+ igor_marques - 451 @channels enviados
+ diegopl - 0 @channels enviados
+ karydja - 99 @channels enviados
+ iagomds - 9 @channels enviados
+ rubenbdpaz - 0 @channels enviados
+ ikaro_souza - 19 @channels enviados
+  - 0 @channels enviados
+ hackel - 9 @channels enviados
+ lucasbibiano - 34 @channels enviados
+ bernardo - 3 @channels enviados
+ victor-oliveira - 7 @channels enviados
+ waldyr - 0 @channels enviados
+ andrezap - 1 @channels enviados
+ marcosjr182 - 0 @channels enviados
+ luanfonceca - 0 @channels enviados
+ luizrogeriocn - 1 @channels enviados
+
+ ----RANDOM----
+ seuraul - 3 @channels enviados
+ igor_marques - 14 @channels enviados
+ lucasbibiano - 4 @channels enviados
+ karydja - 25 @channels enviados
+ iagomds - 8 @channels enviados
+ higor - 4 @channels enviados
+ ikaro_souza - 1 @channels enviados
+ waldyr - 1 @channels enviados
+  - 1 @channels enviados
+ diegopl - 0 @channels enviados
+ hackel - 3 @channels enviados
+ andrezap - 0 @channels enviados
+ victor-oliveira - 2 @channels enviados
+ lucasalveslm - 0 @channels enviados
+ luizrogeriocn - 1 @channels enviados
+ rubenbdpaz - 0 @channels enviados
+ bernardo - 0 @channels enviados
+ marcosjr182 - 0 @channels enviados
+ luanfonceca - 0 @channels enviados
+```
+
+###Messages
+```
+----BANCO-DE-VAGAS----
+lucasbibiano - 536 mensagens
+ - 7 mensagens
+igor_marques - 677 mensagens
+marcosjr182 - 46 mensagens
+karydja - 10 mensagens
+bernardo - 26 mensagens
+higor - 2 mensagens
+
+----GEPE----
+ - 37 mensagens
+higor - 618 mensagens
+igor_marques - 1389 mensagens
+marcosjr182 - 2 mensagens
+lucasbibiano - 449 mensagens
+victor-oliveira - 590 mensagens
+andrezap - 88 mensagens
+ikaro_souza - 254 mensagens
+bernardo - 21 mensagens
+karydja - 13 mensagens
+seuraul - 0 mensagens
+
+----APURN----
+ - 3 mensagens
+lucasbibiano - 476 mensagens
+igor_marques - 480 mensagens
+marcosjr182 - 39 mensagens
+victor-oliveira - 0 mensagens
+
+----LU-LANCHES----
+iagomds - 869 mensagens
+igor_marques - 2420 mensagens
+hackel - 367 mensagens
+ - 73 mensagens
+karydja - 3285 mensagens
+lucasbibiano - 700 mensagens
+seuraul - 239 mensagens
+higor - 91 mensagens
+bernardo - 72 mensagens
+victor-oliveira - 20 mensagens
+
+----PULL_REQUESTS----
+ - 0 mensagens
+igor_marques - 109 mensagens
+seuraul - 5 mensagens
+iagomds - 14 mensagens
+karydja - 52 mensagens
+waldyr - 16 mensagens
+lucasbibiano - 15 mensagens
+andrezap - 0 mensagens
+higor - 0 mensagens
+bernardo - 0 mensagens
+hackel - 0 mensagens
+ikaro_souza - 0 mensagens
+luanfonceca - 0 mensagens
+marcosjr182 - 0 mensagens
+rubenbdpaz - 0 mensagens
+luizrogeriocn - 0 mensagens
+victor-oliveira - 0 mensagens
+
+----DUVIDAS----
+igor_marques - 208 mensagens
+lucasbibiano - 58 mensagens
+waldyr - 100 mensagens
+iagomds - 74 mensagens
+karydja - 149 mensagens
+bernardo - 9 mensagens
+luizrogeriocn - 110 mensagens
+marcosjr182 - 4 mensagens
+ - 3 mensagens
+seuraul - 6 mensagens
+victor-oliveira - 1 mensagens
+andrezap - 0 mensagens
+hackel - 0 mensagens
+ikaro_souza - 0 mensagens
+higor - 0 mensagens
+luanfonceca - 0 mensagens
+rubenbdpaz - 0 mensagens
+
+----ELEJA-SE----
+igor_marques - 2384 mensagens
+iagomds - 324 mensagens
+waldyr - 518 mensagens
+lucasbibiano - 868 mensagens
+ - 24 mensagens
+luizrogeriocn - 560 mensagens
+karydja - 27 mensagens
+
+----CONCRETO----
+ - 1 mensagens
+igor_marques - 66 mensagens
+lucasbibiano - 85 mensagens
+bernardo - 0 mensagens
+victor-oliveira - 36 mensagens
+
+----TRABALHANDO-EM----
+lucasbibiano - 30 mensagens
+karydja - 97 mensagens
+victor-oliveira - 9 mensagens
+igor_marques - 151 mensagens
+diegopl - 6 mensagens
+ikaro_souza - 4 mensagens
+higor - 4 mensagens
+iagomds - 27 mensagens
+seuraul - 34 mensagens
+ - 7 mensagens
+waldyr - 2 mensagens
+andrezap - 0 mensagens
+rubenbdpaz - 4 mensagens
+hackel - 13 mensagens
+lucasalveslm - 4 mensagens
+luizrogeriocn - 2 mensagens
+marcosjr182 - 4 mensagens
+
+----IMOBILIARIA----
+ - 14 mensagens
+lucasbibiano - 1293 mensagens
+igor_marques - 1883 mensagens
+rubenbdpaz - 98 mensagens
+waldyr - 102 mensagens
+diegopl - 157 mensagens
+higor - 0 mensagens
+karydja - 1 mensagens
+
+----ADMINISTRATIVO----
+igor_marques - 2209 mensagens
+higor - 158 mensagens
+seuraul - 228 mensagens
+lucasbibiano - 263 mensagens
+karydja - 1787 mensagens
+ - 45 mensagens
+bernardo - 18 mensagens
+victor-oliveira - 55 mensagens
+
+----COOPERATIVACULTURAL----
+ - 5 mensagens
+igor_marques - 429 mensagens
+marcosjr182 - 132 mensagens
+lucasbibiano - 49 mensagens
+bernardo - 23 mensagens
+waldyr - 37 mensagens
+hackel - 0 mensagens
+
+----LINKS-INTERESSANTES----
+karydja - 88 mensagens
+lucasbibiano - 120 mensagens
+waldyr - 93 mensagens
+iagomds - 124 mensagens
+seuraul - 68 mensagens
+igor_marques - 146 mensagens
+andrezap - 0 mensagens
+hackel - 3 mensagens
+luanfonceca - 1 mensagens
+higor - 9 mensagens
+luizrogeriocn - 8 mensagens
+bernardo - 10 mensagens
+victor-oliveira - 2 mensagens
+ - 14 mensagens
+ikaro_souza - 0 mensagens
+diegopl - 0 mensagens
+marcosjr182 - 0 mensagens
+
+----GENERAL----
+seuraul - 986 mensagens
+higor - 819 mensagens
+lucasalveslm - 13 mensagens
+igor_marques - 4674 mensagens
+diegopl - 83 mensagens
+karydja - 2631 mensagens
+iagomds - 917 mensagens
+rubenbdpaz - 25 mensagens
+ikaro_souza - 78 mensagens
+ - 215 mensagens
+hackel - 289 mensagens
+lucasbibiano - 1343 mensagens
+bernardo - 242 mensagens
+victor-oliveira - 502 mensagens
+waldyr - 232 mensagens
+andrezap - 23 mensagens
+marcosjr182 - 21 mensagens
+luanfonceca - 23 mensagens
+luizrogeriocn - 70 mensagens
+
+----RANDOM----
+seuraul - 303 mensagens
+igor_marques - 978 mensagens
+lucasbibiano - 554 mensagens
+karydja - 1149 mensagens
+iagomds - 803 mensagens
+higor - 176 mensagens
+ikaro_souza - 31 mensagens
+waldyr - 280 mensagens
+ - 106 mensagens
+diegopl - 49 mensagens
+hackel - 288 mensagens
+andrezap - 8 mensagens
+victor-oliveira - 47 mensagens
+lucasalveslm - 9 mensagens
+luizrogeriocn - 301 mensagens
+rubenbdpaz - 6 mensagens
+bernardo - 0 mensagens
+marcosjr182 - 0 mensagens
+luanfonceca - 0 mensagens
 ```
