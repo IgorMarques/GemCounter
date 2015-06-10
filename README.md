@@ -378,219 +378,203 @@ andrezap - 3 mentions para esta pessoa
 luanfonceca - 1 mentions para esta pessoa
 ```
 
- ###@channels sent
+ ###channels sent
 
  ```
  ----BANCO-DE-VAGAS----
- lucasbibiano - 3 @channels enviados
-  - 0 @channels enviados
- igor_marques - 9 @channels enviados
- marcosjr182 - 0 @channels enviados
- karydja - 0 @channels enviados
- bernardo - 1 @channels enviados
- higor - 0 @channels enviados
+lucasbibiano - 3 @channels enviados
+igor_marques - 9 @channels enviados
+marcosjr182 - 0 @channels enviados
+karydja - 0 @channels enviados
+bernardo - 1 @channels enviados
+higor - 0 @channels enviados
 
- ----GEPE----
-  - 0 @channels enviados
- higor - 14 @channels enviados
- igor_marques - 132 @channels enviados
- marcosjr182 - 0 @channels enviados
- lucasbibiano - 16 @channels enviados
- victor-oliveira - 19 @channels enviados
- andrezap - 3 @channels enviados
- ikaro_souza - 11 @channels enviados
- bernardo - 1 @channels enviados
- karydja - 0 @channels enviados
- seuraul - 0 @channels enviados
+----GEPE----
+higor - 14 @channels enviados
+igor_marques - 132 @channels enviados
+marcosjr182 - 0 @channels enviados
+lucasbibiano - 16 @channels enviados
+victor-oliveira - 19 @channels enviados
+andrezap - 3 @channels enviados
+ikaro_souza - 11 @channels enviados
+bernardo - 1 @channels enviados
+karydja - 0 @channels enviados
+seuraul - 0 @channels enviados
 
- ----APURN----
-  - 0 @channels enviados
- lucasbibiano - 6 @channels enviados
- igor_marques - 7 @channels enviados
- marcosjr182 - 2 @channels enviados
- victor-oliveira - 0 @channels enviados
+----APURN----
+lucasbibiano - 6 @channels enviados
+igor_marques - 7 @channels enviados
+marcosjr182 - 2 @channels enviados
+victor-oliveira - 0 @channels enviados
 
- ----LU-LANCHES----
- iagomds - 12 @channels enviados
- igor_marques - 65 @channels enviados
- hackel - 4 @channels enviados
-  - 0 @channels enviados
- karydja - 44 @channels enviados
- lucasbibiano - 3 @channels enviados
- seuraul - 7 @channels enviados
- higor - 3 @channels enviados
- bernardo - 0 @channels enviados
- victor-oliveira - 1 @channels enviados
+----LU-LANCHES----
+iagomds - 12 @channels enviados
+igor_marques - 65 @channels enviados
+hackel - 4 @channels enviados
+karydja - 44 @channels enviados
+lucasbibiano - 3 @channels enviados
+seuraul - 7 @channels enviados
+higor - 3 @channels enviados
+bernardo - 0 @channels enviados
+victor-oliveira - 1 @channels enviados
 
- ----PULL_REQUESTS----
-  - 0 @channels enviados
- igor_marques - 31 @channels enviados
- seuraul - 0 @channels enviados
- iagomds - 0 @channels enviados
- karydja - 2 @channels enviados
- waldyr - 1 @channels enviados
- lucasbibiano - 0 @channels enviados
- andrezap - 0 @channels enviados
- higor - 0 @channels enviados
- bernardo - 0 @channels enviados
- hackel - 0 @channels enviados
- ikaro_souza - 0 @channels enviados
- luanfonceca - 0 @channels enviados
- marcosjr182 - 0 @channels enviados
- rubenbdpaz - 0 @channels enviados
- luizrogeriocn - 0 @channels enviados
- victor-oliveira - 0 @channels enviados
+----PULL_REQUESTS----
+igor_marques - 31 @channels enviados
+seuraul - 0 @channels enviados
+iagomds - 0 @channels enviados
+karydja - 2 @channels enviados
+waldyr - 1 @channels enviados
+lucasbibiano - 0 @channels enviados
+andrezap - 0 @channels enviados
+higor - 0 @channels enviados
+bernardo - 0 @channels enviados
+hackel - 0 @channels enviados
+ikaro_souza - 0 @channels enviados
+luanfonceca - 0 @channels enviados
+marcosjr182 - 0 @channels enviados
+rubenbdpaz - 0 @channels enviados
+luizrogeriocn - 0 @channels enviados
+victor-oliveira - 0 @channels enviados
 
- ----DUVIDAS----
- igor_marques - 13 @channels enviados
- lucasbibiano - 0 @channels enviados
- waldyr - 1 @channels enviados
- iagomds - 0 @channels enviados
- karydja - 11 @channels enviados
- bernardo - 0 @channels enviados
- luizrogeriocn - 1 @channels enviados
- marcosjr182 - 2 @channels enviados
-  - 0 @channels enviados
- seuraul - 0 @channels enviados
- victor-oliveira - 0 @channels enviados
- andrezap - 0 @channels enviados
- hackel - 0 @channels enviados
- ikaro_souza - 0 @channels enviados
- higor - 0 @channels enviados
- luanfonceca - 0 @channels enviados
- rubenbdpaz - 0 @channels enviados
+----DUVIDAS----
+igor_marques - 13 @channels enviados
+lucasbibiano - 0 @channels enviados
+waldyr - 1 @channels enviados
+iagomds - 0 @channels enviados
+karydja - 11 @channels enviados
+bernardo - 0 @channels enviados
+luizrogeriocn - 1 @channels enviados
+marcosjr182 - 2 @channels enviados
+seuraul - 0 @channels enviados
+victor-oliveira - 0 @channels enviados
+andrezap - 0 @channels enviados
+hackel - 0 @channels enviados
+ikaro_souza - 0 @channels enviados
+higor - 0 @channels enviados
+luanfonceca - 0 @channels enviados
+rubenbdpaz - 0 @channels enviados
 
- ----ELEJA-SE----
- igor_marques - 54 @channels enviados
- iagomds - 2 @channels enviados
- waldyr - 0 @channels enviados
- lucasbibiano - 8 @channels enviados
-  - 0 @channels enviados
- luizrogeriocn - 0 @channels enviados
- karydja - 0 @channels enviados
+----ELEJA-SE----
+igor_marques - 54 @channels enviados
+iagomds - 2 @channels enviados
+waldyr - 0 @channels enviados
+lucasbibiano - 8 @channels enviados
+luizrogeriocn - 0 @channels enviados
+karydja - 0 @channels enviados
 
- ----CONCRETO----
-  - 0 @channels enviados
- igor_marques - 1 @channels enviados
- lucasbibiano - 1 @channels enviados
- bernardo - 0 @channels enviados
- victor-oliveira - 0 @channels enviados
+----CONCRETO----
+igor_marques - 1 @channels enviados
+lucasbibiano - 1 @channels enviados
+bernardo - 0 @channels enviados
+victor-oliveira - 0 @channels enviados
 
- ----TRABALHANDO-EM----
- lucasbibiano - 8 @channels enviados
- karydja - 11 @channels enviados
- victor-oliveira - 2 @channels enviados
- igor_marques - 23 @channels enviados
- diegopl - 0 @channels enviados
- ikaro_souza - 2 @channels enviados
- higor - 0 @channels enviados
- iagomds - 0 @channels enviados
- seuraul - 0 @channels enviados
-  - 0 @channels enviados
- waldyr - 0 @channels enviados
- andrezap - 0 @channels enviados
- rubenbdpaz - 0 @channels enviados
- hackel - 0 @channels enviados
- lucasalveslm - 2 @channels enviados
- luizrogeriocn - 0 @channels enviados
- marcosjr182 - 0 @channels enviados
+----TRABALHANDO-EM----
+lucasbibiano - 8 @channels enviados
+karydja - 11 @channels enviados
+victor-oliveira - 2 @channels enviados
+igor_marques - 23 @channels enviados
+diegopl - 0 @channels enviados
+ikaro_souza - 2 @channels enviados
+higor - 0 @channels enviados
+iagomds - 0 @channels enviados
+seuraul - 0 @channels enviados
+waldyr - 0 @channels enviados
+andrezap - 0 @channels enviados
+rubenbdpaz - 0 @channels enviados
+hackel - 0 @channels enviados
+lucasalveslm - 2 @channels enviados
+luizrogeriocn - 0 @channels enviados
+marcosjr182 - 0 @channels enviados
 
- ----IMOBILIARIA----
-  - 0 @channels enviados
- lucasbibiano - 8 @channels enviados
- igor_marques - 27 @channels enviados
- rubenbdpaz - 1 @channels enviados
- waldyr - 0 @channels enviados
- diegopl - 1 @channels enviados
- higor - 0 @channels enviados
- karydja - 0 @channels enviados
+----IMOBILIARIA----
+lucasbibiano - 8 @channels enviados
+igor_marques - 27 @channels enviados
+rubenbdpaz - 1 @channels enviados
+waldyr - 0 @channels enviados
+diegopl - 1 @channels enviados
+higor - 0 @channels enviados
+karydja - 0 @channels enviados
 
- ----ADMINISTRATIVO----
- igor_marques - 75 @channels enviados
- higor - 1 @channels enviados
- seuraul - 0 @channels enviados
- lucasbibiano - 1 @channels enviados
- karydja - 6 @channels enviados
-  - 0 @channels enviados
- bernardo - 2 @channels enviados
- victor-oliveira - 1 @channels enviados
+----ADMINISTRATIVO----
+igor_marques - 75 @channels enviados
+higor - 1 @channels enviados
+seuraul - 0 @channels enviados
+lucasbibiano - 1 @channels enviados
+karydja - 6 @channels enviados
+bernardo - 2 @channels enviados
+victor-oliveira - 1 @channels enviados
 
- ----COOPERATIVACULTURAL----
-  - 0 @channels enviados
- igor_marques - 10 @channels enviados
- marcosjr182 - 3 @channels enviados
- lucasbibiano - 0 @channels enviados
- bernardo - 1 @channels enviados
- waldyr - 0 @channels enviados
- hackel - 0 @channels enviados
+----COOPERATIVACULTURAL----
+igor_marques - 10 @channels enviados
+marcosjr182 - 3 @channels enviados
+lucasbibiano - 0 @channels enviados
+bernardo - 1 @channels enviados
+waldyr - 0 @channels enviados
+hackel - 0 @channels enviados
 
- ----LINKS-INTERESSANTES----
- karydja - 3 @channels enviados
- lucasbibiano - 13 @channels enviados
- waldyr - 0 @channels enviados
- iagomds - 8 @channels enviados
- seuraul - 1 @channels enviados
- igor_marques - 9 @channels enviados
- andrezap - 0 @channels enviados
- hackel - 0 @channels enviados
- luanfonceca - 0 @channels enviados
- higor - 0 @channels enviados
- luizrogeriocn - 0 @channels enviados
- bernardo - 0 @channels enviados
- victor-oliveira - 0 @channels enviados
-  - 0 @channels enviados
- ikaro_souza - 0 @channels enviados
- diegopl - 0 @channels enviados
- marcosjr182 - 0 @channels enviados
+----LINKS-INTERESSANTES----
+karydja - 3 @channels enviados
+lucasbibiano - 13 @channels enviados
+waldyr - 0 @channels enviados
+iagomds - 8 @channels enviados
+seuraul - 1 @channels enviados
+igor_marques - 9 @channels enviados
+andrezap - 0 @channels enviados
+hackel - 0 @channels enviados
+luanfonceca - 0 @channels enviados
+higor - 0 @channels enviados
+luizrogeriocn - 0 @channels enviados
+bernardo - 0 @channels enviados
+victor-oliveira - 0 @channels enviados
+ikaro_souza - 0 @channels enviados
+diegopl - 0 @channels enviados
+marcosjr182 - 0 @channels enviados
 
- ----GENERAL----
- seuraul - 15 @channels enviados
- higor - 19 @channels enviados
- lucasalveslm - 1 @channels enviados
- igor_marques - 451 @channels enviados
- diegopl - 0 @channels enviados
- karydja - 99 @channels enviados
- iagomds - 9 @channels enviados
- rubenbdpaz - 0 @channels enviados
- ikaro_souza - 19 @channels enviados
-  - 0 @channels enviados
- hackel - 9 @channels enviados
- lucasbibiano - 34 @channels enviados
- bernardo - 3 @channels enviados
- victor-oliveira - 7 @channels enviados
- waldyr - 0 @channels enviados
- andrezap - 1 @channels enviados
- marcosjr182 - 0 @channels enviados
- luanfonceca - 0 @channels enviados
- luizrogeriocn - 1 @channels enviados
+----GENERAL----
+seuraul - 15 @channels enviados
+higor - 19 @channels enviados
+lucasalveslm - 1 @channels enviados
+igor_marques - 451 @channels enviados
+diegopl - 0 @channels enviados
+karydja - 99 @channels enviados
+iagomds - 9 @channels enviados
+rubenbdpaz - 0 @channels enviados
+ikaro_souza - 19 @channels enviados
+hackel - 9 @channels enviados
+lucasbibiano - 34 @channels enviados
+bernardo - 3 @channels enviados
+victor-oliveira - 7 @channels enviados
+waldyr - 0 @channels enviados
+andrezap - 1 @channels enviados
+marcosjr182 - 0 @channels enviados
+luanfonceca - 0 @channels enviados
+luizrogeriocn - 1 @channels enviados
 
- ----RANDOM----
- seuraul - 3 @channels enviados
- igor_marques - 14 @channels enviados
- lucasbibiano - 4 @channels enviados
- karydja - 25 @channels enviados
- iagomds - 8 @channels enviados
- higor - 4 @channels enviados
- ikaro_souza - 1 @channels enviados
- waldyr - 1 @channels enviados
-  - 1 @channels enviados
- diegopl - 0 @channels enviados
- hackel - 3 @channels enviados
- andrezap - 0 @channels enviados
- victor-oliveira - 2 @channels enviados
- lucasalveslm - 0 @channels enviados
- luizrogeriocn - 1 @channels enviados
- rubenbdpaz - 0 @channels enviados
- bernardo - 0 @channels enviados
- marcosjr182 - 0 @channels enviados
- luanfonceca - 0 @channels enviados
+----RANDOM----
+seuraul - 3 @channels enviados
+igor_marques - 14 @channels enviados
+lucasbibiano - 4 @channels enviados
+karydja - 25 @channels enviados
+iagomds - 8 @channels enviados
+higor - 4 @channels enviados
+ikaro_souza - 1 @channels enviados
+waldyr - 1 @channels enviados
+diegopl - 0 @channels enviados
+hackel - 3 @channels enviados
+andrezap - 0 @channels enviados
+victor-oliveira - 2 @channels enviados
+lucasalveslm - 0 @channels enviados
+luizrogeriocn - 1 @channels enviados
+rubenbdpaz - 0 @channels enviados
+bernardo - 0 @channels enviados
+marcosjr182 - 0 @channels enviados
+luanfonceca - 0 @channels enviados
 ```
 
 ###Messages
 ```
 ----BANCO-DE-VAGAS----
 lucasbibiano - 536 mensagens
- - 7 mensagens
 igor_marques - 677 mensagens
 marcosjr182 - 46 mensagens
 karydja - 10 mensagens
@@ -598,7 +582,6 @@ bernardo - 26 mensagens
 higor - 2 mensagens
 
 ----GEPE----
- - 37 mensagens
 higor - 618 mensagens
 igor_marques - 1389 mensagens
 marcosjr182 - 2 mensagens
@@ -611,7 +594,6 @@ karydja - 13 mensagens
 seuraul - 0 mensagens
 
 ----APURN----
- - 3 mensagens
 lucasbibiano - 476 mensagens
 igor_marques - 480 mensagens
 marcosjr182 - 39 mensagens
@@ -621,7 +603,6 @@ victor-oliveira - 0 mensagens
 iagomds - 869 mensagens
 igor_marques - 2420 mensagens
 hackel - 367 mensagens
- - 73 mensagens
 karydja - 3285 mensagens
 lucasbibiano - 700 mensagens
 seuraul - 239 mensagens
@@ -630,7 +611,6 @@ bernardo - 72 mensagens
 victor-oliveira - 20 mensagens
 
 ----PULL_REQUESTS----
- - 0 mensagens
 igor_marques - 109 mensagens
 seuraul - 5 mensagens
 iagomds - 14 mensagens
@@ -657,7 +637,6 @@ karydja - 149 mensagens
 bernardo - 9 mensagens
 luizrogeriocn - 110 mensagens
 marcosjr182 - 4 mensagens
- - 3 mensagens
 seuraul - 6 mensagens
 victor-oliveira - 1 mensagens
 andrezap - 0 mensagens
@@ -672,12 +651,10 @@ igor_marques - 2384 mensagens
 iagomds - 324 mensagens
 waldyr - 518 mensagens
 lucasbibiano - 868 mensagens
- - 24 mensagens
 luizrogeriocn - 560 mensagens
 karydja - 27 mensagens
 
 ----CONCRETO----
- - 1 mensagens
 igor_marques - 66 mensagens
 lucasbibiano - 85 mensagens
 bernardo - 0 mensagens
@@ -693,7 +670,6 @@ ikaro_souza - 4 mensagens
 higor - 4 mensagens
 iagomds - 27 mensagens
 seuraul - 34 mensagens
- - 7 mensagens
 waldyr - 2 mensagens
 andrezap - 0 mensagens
 rubenbdpaz - 4 mensagens
@@ -703,7 +679,6 @@ luizrogeriocn - 2 mensagens
 marcosjr182 - 4 mensagens
 
 ----IMOBILIARIA----
- - 14 mensagens
 lucasbibiano - 1293 mensagens
 igor_marques - 1883 mensagens
 rubenbdpaz - 98 mensagens
@@ -718,12 +693,10 @@ higor - 158 mensagens
 seuraul - 228 mensagens
 lucasbibiano - 263 mensagens
 karydja - 1787 mensagens
- - 45 mensagens
 bernardo - 18 mensagens
 victor-oliveira - 55 mensagens
 
 ----COOPERATIVACULTURAL----
- - 5 mensagens
 igor_marques - 429 mensagens
 marcosjr182 - 132 mensagens
 lucasbibiano - 49 mensagens
@@ -745,7 +718,6 @@ higor - 9 mensagens
 luizrogeriocn - 8 mensagens
 bernardo - 10 mensagens
 victor-oliveira - 2 mensagens
- - 14 mensagens
 ikaro_souza - 0 mensagens
 diegopl - 0 mensagens
 marcosjr182 - 0 mensagens
@@ -760,7 +732,6 @@ karydja - 2631 mensagens
 iagomds - 917 mensagens
 rubenbdpaz - 25 mensagens
 ikaro_souza - 78 mensagens
- - 215 mensagens
 hackel - 289 mensagens
 lucasbibiano - 1343 mensagens
 bernardo - 242 mensagens
@@ -780,7 +751,6 @@ iagomds - 803 mensagens
 higor - 176 mensagens
 ikaro_souza - 31 mensagens
 waldyr - 280 mensagens
- - 106 mensagens
 diegopl - 49 mensagens
 hackel - 288 mensagens
 andrezap - 8 mensagens
