@@ -12,32 +12,37 @@ Random project that, given an specific json with the blame of the gemfile of a g
 
 GEMS:
 
-rails: 1
-sass-rails: 2
-uglifier: 2
-coffee-rails: 2
-chosen-rails: 2
-jquery-rails: 2
-turbolinks: 1
-jbuilder: 2
-sdoc: 2
-spring: 2
-friendly_id: 1
-simple_form: 1
-devise: 2
-bootstrap-sass: 1
-autoprefixer-rails: 1
-carrierwave: 1
-font-awesome-sass: 3
-seedbank: 1
-draper: 1
-cancancan: 2
-kaminari: 1
-newrelic_rpm: 1
-validates_cpf_cnpj: 1
-factory_girl: 1
-maskedinput-rails: 1
-valid_email: 1
+rails: 1 - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable produc
+sass-rails: 2 - Sass adapter for the Rails asset pipeline.
+uglifier: 2 - Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible in Ruby
+coffee-rails: 2 - CoffeeScript adapter for the Rails asset pipeline.
+chosen-rails: 2 - Chosen is a javascript library of select box enhancer for jQuery and Protoype. This gem integrates Ch
+jquery-rails: 2 - This gem provides jQuery and the jQuery-ujs driver for your Rails 4+ application.
+turbolinks: 1 - Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)
+jbuilder: 2 - Create JSON structures via a Builder-style DSL
+sdoc: 2 - rdoc generator html with javascript search index.
+spring: 2 - Rails application preloader
+friendly_id: 1 - FriendlyId is the "Swiss Army bulldozer" of slugging and permalink plugins for
+Active Record. It lets
+simple_form: 1 - Forms made easy!
+devise: 2 - Flexible authentication solution for Rails with Warden
+bootstrap-sass: 1 - Twitter's Bootstrap, converted to Sass and ready to drop into Rails or Compass
+autoprefixer-rails: 1 - Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website.
+carrierwave: 1 - Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends
+font-awesome-sass: 3 - Font-Awesome SASS gem for use in Ruby projects
+seedbank: 1 -
+    Extends Rails seeds to split out complex seeds into multiple
+    files and lets each environment
+draper: 1 - Draper adds an object-oriented layer of presentation logic to your Rails apps.
+cancancan: 2 - Continuation of the simple authorization solution for Rails which is decoupled from user roles. All p
+kaminari: 1 - Kaminari is a Scope &amp; Engine based, clean, powerful, agnostic, customizable and sophisticated pag
+newrelic_rpm: 1 - New Relic is a performance management system, developed by New Relic,
+Inc (http://www.newrelic.com).
+validates_cpf_cnpj: 1 - CPF and CNPJ validations for ActiveModel and Rails
+factory_girl: 1 - factory_girl provides a framework and DSL for defining and
+                      using factories - le
+maskedinput-rails: 1 - jquery.maskedinput for rails.
+valid_email: 1 - ActiveModel Validation for email
 
 TOTAL: 26
 
@@ -45,7 +50,7 @@ TOTAL: 26
 
 GEMS:
 
-rails4-autocomplete: 1
+rails4-autocomplete: 1 - Use jQuery's autocomplete plugin with Rails 4.
 
 TOTAL: 1
 
@@ -53,25 +58,26 @@ TOTAL: 1
 
 GEMS:
 
-rails: 2
-unicorn: 1
-draper: 1
-devise: 1
-rest_client: 1
-carrierwave: 1
-fog: 1
-ransack: 1
-simple_form: 1
-sass-rails: 1
-bootstrap-sass: 1
-bootswatch-rails: 1
-uglifier: 1
-coffee-rails: 1
-jquery-rails: 1
-turbolinks: 1
-jbuilder: 1
-sdoc: 1
-rails_12factor: 1
+rails: 2 - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable produc
+unicorn: 1 - \Unicorn is an HTTP server for Rack applications designed to only serve
+fast clients on low-latency,
+draper: 1 - Draper adds an object-oriented layer of presentation logic to your Rails apps.
+devise: 1 - Flexible authentication solution for Rails with Warden
+rest_client: 1 - Same as rest-client, but removes mime-types dependency. -- A simple HTTP and REST client for Ruby, in
+carrierwave: 1 - Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends
+fog: 1 - The Ruby cloud services library. Supports all major cloud providers including AWS, Rackspace, Linode,
+ransack: 1 - Ransack is the successor to the MetaSearch gem. It improves and expands upon MetaSearch's functionali
+simple_form: 1 - Forms made easy!
+sass-rails: 1 - Sass adapter for the Rails asset pipeline.
+bootstrap-sass: 1 - Twitter's Bootstrap, converted to Sass and ready to drop into Rails or Compass
+bootswatch-rails: 1 - Bootswatches converted to SCSS ready to use in Rails asset pipeline.
+uglifier: 1 - Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible in Ruby
+coffee-rails: 1 - CoffeeScript adapter for the Rails asset pipeline.
+jquery-rails: 1 - This gem provides jQuery and the jQuery-ujs driver for your Rails 4+ application.
+turbolinks: 1 - Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)
+jbuilder: 1 - Create JSON structures via a Builder-style DSL
+sdoc: 1 - rdoc generator html with javascript search index.
+rails_12factor: 1 - Run Rails the 12factor way
 
 TOTAL: 19
 
@@ -79,14 +85,14 @@ TOTAL: 19
 
 GEMS:
 
-bootstrap-sass: 1
-simple_form: 1
-validates_cpf_cnpj: 1
-momentjs-rails: 1
-bootstrap-daterangepicker-rails: 1
-kaminari: 1
-has_scope: 1
-draper: 1
+bootstrap-sass: 1 - Twitter's Bootstrap, converted to Sass and ready to drop into Rails or Compass
+simple_form: 1 - Forms made easy!
+validates_cpf_cnpj: 1 - CPF and CNPJ validations for ActiveModel and Rails
+momentjs-rails: 1 -     Moment.js is a lightweight javascript date library for parsing, manipulating, and formatting date
+bootstrap-daterangepicker-rails: 1 - Rails 4.1.x plugin to allow for the easy use of Dan Grossman's Bootstrap DateRangePicker
+kaminari: 1 - Kaminari is a Scope &amp; Engine based, clean, powerful, agnostic, customizable and sophisticated pag
+has_scope: 1 - Maps controller filters to your resource scopes
+draper: 1 - Draper adds an object-oriented layer of presentation logic to your Rails apps.
 
 TOTAL: 8
 
@@ -94,7 +100,7 @@ TOTAL: 8
 
 GEMS:
 
-rails_12factor: 1
+rails_12factor: 1 - Run Rails the 12factor way
 
 TOTAL: 1
 
@@ -102,25 +108,25 @@ TOTAL: 1
 
 GEMS:
 
-rails: 1
-draper: 1
-uglifier: 1
-coffee-rails: 1
-jquery-rails: 1
-turbolinks: 1
-jbuilder: 1
-rails_12factor: 1
-bootstrap-sass: 1
-simple_form: 1
-puma: 1
-magic_encoding: 1
-bootswatch-rails: 1
-coveralls: 1
-devise: 1
-chosen-rails: 1
-nested_form: 1
-ransack: 1
-by_star: 1
+rails: 1 - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable produc
+draper: 1 - Draper adds an object-oriented layer of presentation logic to your Rails apps.
+uglifier: 1 - Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible in Ruby
+coffee-rails: 1 - CoffeeScript adapter for the Rails asset pipeline.
+jquery-rails: 1 - This gem provides jQuery and the jQuery-ujs driver for your Rails 4+ application.
+turbolinks: 1 - Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)
+jbuilder: 1 - Create JSON structures via a Builder-style DSL
+rails_12factor: 1 - Run Rails the 12factor way
+bootstrap-sass: 1 - Twitter's Bootstrap, converted to Sass and ready to drop into Rails or Compass
+simple_form: 1 - Forms made easy!
+puma: 1 - Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. P
+magic_encoding: 1 - Easily add magic comments for encoding on multiple ruby source files
+bootswatch-rails: 1 - Bootswatches converted to SCSS ready to use in Rails asset pipeline.
+coveralls: 1 - A Ruby implementation of the Coveralls API.
+devise: 1 - Flexible authentication solution for Rails with Warden
+chosen-rails: 1 - Chosen is a javascript library of select box enhancer for jQuery and Protoype. This gem integrates Ch
+nested_form: 1 - Gem to conveniently handle multiple models in a single form with Rails 3 and jQuery or Prototype.
+ransack: 1 - Ransack is the successor to the MetaSearch gem. It improves and expands upon MetaSearch's functionali
+by_star: 1 - ActiveRecord and Mongoid extension for easier date scopes and time ranges
 
 TOTAL: 19
 
@@ -128,7 +134,7 @@ TOTAL: 19
 
 GEMS:
 
-sass-rails: 1
+sass-rails: 1 - Sass adapter for the Rails asset pipeline.
 
 TOTAL: 1
 
@@ -136,9 +142,9 @@ TOTAL: 1
 
 GEMS:
 
-therubyracer: 2
-compass-rails: 1
-bootswatch-rails: 1
+therubyracer: 2 - Call JavaScript code and manipulate JavaScript objects from Ruby. Call Ruby code and manipulate Ruby
+compass-rails: 1 - Integrate Compass into Rails 3.0 and up.
+bootswatch-rails: 1 - Bootswatches converted to SCSS ready to use in Rails asset pipeline.
 
 TOTAL: 3
 
@@ -146,9 +152,9 @@ TOTAL: 3
 
 GEMS:
 
-maskedinput-rails: 1
-font-awesome-sass: 1
-summernote-rails: 1
+maskedinput-rails: 1 - jquery.maskedinput for rails.
+font-awesome-sass: 1 - Font-Awesome SASS gem for use in Ruby projects
+summernote-rails: 1 - This gem packages the editor Summernote for Rails' assets pipeline
 
 TOTAL: 3
 
@@ -156,7 +162,8 @@ TOTAL: 3
 
 GEMS:
 
-wicked_pdf: 1
+wicked_pdf: 1 - Wicked PDF uses the shell utility wkhtmltopdf to serve a PDF file to a user from HTML.
+In other words
 
 TOTAL: 1
 
@@ -164,7 +171,7 @@ TOTAL: 1
 
 GEMS:
 
-wkhtmltopdf-binary: 1
+wkhtmltopdf-binary: 1 - Provides binaries for WKHTMLTOPDF project in an easily accessible package.
 
 TOTAL: 1
 
@@ -172,13 +179,15 @@ TOTAL: 1
 
 GEMS:
 
-rails: 1
-pg: 1
-simple_form: 1
-bootstrap-sass: 1
-chosen-rails: 1
-maskedinput-rails: 1
-rails_12factor: 1
+rails: 1 - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable produc
+pg: 1 - Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/].
+
+It works with {Postg
+simple_form: 1 - Forms made easy!
+bootstrap-sass: 1 - Twitter's Bootstrap, converted to Sass and ready to drop into Rails or Compass
+chosen-rails: 1 - Chosen is a javascript library of select box enhancer for jQuery and Protoype. This gem integrates Ch
+maskedinput-rails: 1 - jquery.maskedinput for rails.
+rails_12factor: 1 - Run Rails the 12factor way
 
 TOTAL: 7
 
@@ -186,19 +195,20 @@ TOTAL: 7
 
 GEMS:
 
-sass-rails: 1
-uglifier: 1
-coffee-rails: 1
-jquery-rails: 1
-jbuilder: 1
-devise: 1
-cancancan: 1
-rspec: 1
-rspec-rails: 1
-shoulda-matchers: 1
-factory_girl_rails: 1
-capybara: 1
-simplecov: 1
+sass-rails: 1 - Sass adapter for the Rails asset pipeline.
+uglifier: 1 - Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible in Ruby
+coffee-rails: 1 - CoffeeScript adapter for the Rails asset pipeline.
+jquery-rails: 1 - This gem provides jQuery and the jQuery-ujs driver for your Rails 4+ application.
+jbuilder: 1 - Create JSON structures via a Builder-style DSL
+devise: 1 - Flexible authentication solution for Rails with Warden
+cancancan: 1 - Continuation of the simple authorization solution for Rails which is decoupled from user roles. All p
+rspec: 1 - BDD for Ruby
+rspec-rails: 1 - RSpec for Rails
+shoulda-matchers: 1 - Making tests easy on the fingers and eyes
+factory_girl_rails: 1 - factory_girl_rails provides integration between
+    factory_girl and rails 3 (currently just automati
+capybara: 1 - Capybara is an integration testing tool for rack based web applications. It simulates how a user woul
+simplecov: 1 - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage a
 
 TOTAL: 13
 
@@ -206,9 +216,9 @@ TOTAL: 13
 
 GEMS:
 
-autoprefixer-rails: 1
-sprockets-rails: 1
-font-awesome-sass: 1
+autoprefixer-rails: 1 - Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website.
+sprockets-rails: 1 - Sprockets Rails integration
+font-awesome-sass: 1 - Font-Awesome SASS gem for use in Ruby projects
 
 TOTAL: 3
 ```
